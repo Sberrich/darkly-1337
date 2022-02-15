@@ -1,0 +1,7 @@
+On http://{IP}/?page=recover we inspect the HTML Page 
+And we found a form with POST method and a hidden input conatins an email as a value
+
+Just after change the value of this input and submit the form, we got the flag.
+
+How to secure:
+    - don't send the value in a hidden input.
