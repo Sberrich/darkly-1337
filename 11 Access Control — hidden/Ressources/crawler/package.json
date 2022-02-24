@@ -1,0 +1,11 @@
+{
+  "name": "jj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohammed Esafi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "playwright": "^1.19.1"
+  }
+}
