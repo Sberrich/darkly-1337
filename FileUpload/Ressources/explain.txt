@@ -1,4 +1,0 @@
-uplaod any file with this extention: .jpg.jpg, and you will got the flag (yes it's the magic)
-
-how to secure:
-    - Check the image if a valid image not just the content type or extention.

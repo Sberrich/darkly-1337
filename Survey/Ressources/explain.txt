@@ -1,8 +1,0 @@
-after we inspect the HTML Page, we can see a form submiting automaticaly after the grade value is changing
-
-so we change one of the select values and select it 
-
-we got the Flag 
-
-how to secure:
-    - check values in server side
